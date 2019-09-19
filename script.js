@@ -3,3 +3,4 @@ const calculation = sum - (sum % 1000);  //расчет бонуса
 const bonus = 100 * (calculation / 1000);
 const resultBonusStr = bonus + " " + "бонусов";  //полученное колличество бонусов
 console.log(resultBonusStr);
+console.log('hi');
